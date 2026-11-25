@@ -1,0 +1,8 @@
+{
+  "name": "Remix KasirKu",
+  "description": "Aplikasi kasir (POS) Android 100% offline dengan SQLite/Room, manajemen produk \u0026 stok, keranjang kasir, struk digital, laporan laba kotor harian, dan backup JSON/CSV lokal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

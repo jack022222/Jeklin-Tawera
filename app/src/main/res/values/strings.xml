@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KasirKu</string>
+    <string name="nav_kasir">Kasir</string>
+    <string name="nav_produk">Produk</string>
+    <string name="nav_riwayat">Riwayat</string>
+    <string name="nav_laporan">Laporan</string>
+    <string name="offline_badge">100% Offline • SQLite Lokal</string>
+    <string name="action_add_product">Tambah Produk</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_cancel">Batal</string>
+    <string name="action_delete">Hapus</string>
+    <string name="action_share_receipt">Bagikan Struk</string>
+    <string name="action_copy_receipt">Salin Struk</string>
+    <string name="share_receipt_chooser_title">Bagikan Struk Transaksi</string>
+    <string name="error_insufficient_stock">Stok produk tidak mencukupi</string>
+    <string name="error_invalid_cash">Uang tunai belum mencukupi total bayar</string>
+</resources>
